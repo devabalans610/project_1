@@ -1,0 +1,149 @@
+,route-collected,name,type,departure_time,arrival_time,duration,price,seats_available,rating
+0,Jodhpur to Ajmer,RSRTC - 160781,Super Luxury Volvo AC Seater Pushback 2+2,00:00,14:00,14h 00m,INR 460,37 Seats available,4.5
+1,Jodhpur to Ajmer,RSRTC - 192566,Semi Deluxe Non AC Seater 2+2,04:45,09:15,04h 30m,INR 250,35 Seats available,4.2
+2,Jodhpur to Ajmer,RSRTC - 146314,Super Luxury Volvo AC Seater Pushback 2+2,06:15,10:15,04h 00m,INR 460,37 Seats available,4.2
+3,Jodhpur to Ajmer,RSRTC - 185141,Super Luxury Volvo AC Seater Pushback 2+2,07:15,11:15,04h 00m,INR 460,37 Seats available,4.0
+4,Jodhpur to Ajmer,RSRTC - 193343,Semi Deluxe Non AC Seater 2+2,07:15,12:00,04h 45m,INR 250,35 Seats available,4.2
+5,Jodhpur to Ajmer,RSRTC - 193585,Express Non AC Seater 2+3,07:40,12:20,04h 40m,INR 227,42 Seats available,4.2
+6,Jodhpur to Ajmer,RSRTC - 192577,Express Non AC Seater 2+3,08:00,12:55,04h 55m,INR 229,46 Seats available,4.2
+7,Jodhpur to Ajmer,RSRTC - 144042,Super Luxury Volvo AC Seater Pushback 2+2,08:21,12:20,03h 59m,INR 460,37 Seats available,4.3
+8,Jodhpur to Ajmer,RSRTC - 186250,Super Luxury Volvo AC Seater Pushback 2+2,09:16,13:20,04h 04m,INR 460,37 Seats available,4.6
+9,Jodhpur to Ajmer,RSRTC - 174461,Express Non AC Seater 2+3,09:30,14:15,04h 45m,INR 229,42 Seats available,4.2
+10,Jodhpur to Ajmer,RSRTC - 193432,Express Non AC Seater 2+3,10:00,15:45,05h 45m,INR 226,42 Seats available,4.2
+11,Jodhpur to Ajmer,RSRTC - 179321,Express Non AC Seater 2+3,10:00,14:30,04h 30m,INR 229,42 Seats available,4.2
+12,Jodhpur to Ajmer,RSRTC - 179320,Express Non AC Seater 2+3,10:15,14:40,04h 25m,INR 229,42 Seats available,4.2
+13,Jodhpur to Ajmer,RSRTC - 164138,Express Non AC Seater 2+3,10:30,15:00,04h 30m,INR 229,42 Seats available,4.2
+14,Jodhpur to Ajmer,RSRTC - 187787,Super Luxury Volvo AC Seater Pushback 2+2,11:00,15:00,04h 00m,INR 460,37 Seats available,4.7
+15,Jodhpur to Ajmer,RSRTC - 182944,Express Non AC Seater 2+3,11:15,15:50,04h 35m,INR 229,42 Seats available,4.2
+16,Jodhpur to Ajmer,RSRTC - 187798,Super Luxury Volvo AC Seater Pushback 2+2,11:55,15:50,03h 55m,INR 460,37 Seats available,4.5
+17,Jodhpur to Ajmer,RSRTC - 156405,Express Non AC Seater 2+3,12:00,16:30,04h 30m,INR 229,42 Seats available,4.2
+18,Jodhpur to Ajmer,RSRTC - 190537,Express Non AC Seater 2+3,12:30,17:05,04h 35m,INR 229,42 Seats available,4.2
+19,Jodhpur to Ajmer,RSRTC - 157455,Super Luxury Volvo AC Seater Pushback 2+2,13:00,17:00,04h 00m,INR 460,37 Seats available,4.2
+20,Jodhpur to Ajmer,RSRTC - 190571,Express Non AC Seater 2+3,13:25,18:00,04h 35m,INR 229,42 Seats available,4.2
+21,Jodhpur to Ajmer,RSRTC - 188046,Express Non AC Seater 2+3,14:15,19:00,04h 45m,INR 229,42 Seats available,4.2
+22,Jodhpur to Ajmer,RSRTC - 167049,Express Non AC Seater 2+3,14:30,19:15,04h 45m,INR 229,42 Seats available,4.2
+23,Jodhpur to Ajmer,RSRTC - 146140,Super Luxury Volvo AC Seater Pushback 2+2,14:46,18:48,04h 02m,INR 460,37 Seats available,4.0
+24,Jodhpur to Ajmer,RSRTC - 169078,NON AC Seater / Sleeper 2+1,15:00,19:30,04h 30m,INR 302,37 Seats available,4.5
+25,Jodhpur to Ajmer,RSRTC - 178737,Express Non AC Seater 2+3,15:30,20:05,04h 35m,INR 229,42 Seats available,4.2
+26,Jodhpur to Ajmer,RSRTC - 190572,Express Non AC Seater 2+3,16:15,21:00,04h 45m,INR 229,42 Seats available,4.2
+27,Jodhpur to Ajmer,RSRTC - 175650,Super Luxury Volvo AC Seater Pushback 2+2,16:30,20:30,04h 00m,INR 460,37 Seats available,4.4
+28,Jodhpur to Ajmer,RSRTC - 160785,Super Luxury Volvo AC Seater Pushback 2+2,17:30,21:30,04h 00m,INR 460,37 Seats available,4.1
+29,Jodhpur to Ajmer,RSRTC - 190951,Express Non AC Seater 2+3,18:00,22:30,04h 30m,INR 229,42 Seats available,4.2
+30,Jodhpur to Ajmer,RSRTC - 193481,Express Non AC Seater 2+3,18:30,23:00,04h 30m,INR 229,42 Seats available,4.2
+31,Jodhpur to Ajmer,RSRTC - 187140,NON AC Seater / Sleeper 2+1,19:30,23:30,04h 00m,INR 302,37 Seats available,4.2
+32,Jodhpur to Ajmer,RSRTC - 176394,Super Luxury Volvo AC Seater Pushback 2+2,20:00,23:45,03h 45m,INR 460,37 Seats available,4.4
+33,Jodhpur to Ajmer,RSRTC - 189473,NON AC Seater / Sleeper 2+1,21:00,01:30,04h 30m,INR 302,37 Seats available,4.2
+34,Jodhpur to Ajmer,RSRTC - 193596,Express Non AC Seater 2+3,22:30,02:00,03h 30m,INR 229,42 Seats available,4.2
+35,Jodhpur to Ajmer,RSRTC - 192299,Super Luxury Volvo AC Seater Pushback 2+2,23:00,02:45,03h 45m,INR 458,37 Seats available,4.3
+36,Jodhpur to Ajmer,RSRTC - 189583,NON AC Seater / Sleeper 2+1,23:59,03:45,03h 46m,INR 302,37 Seats available,5.0
+37,Jodhpur to Ajmer,Chouhan Tour and Travel,A/C Seater / Sleeper (2+2),00:40,05:30,04h 50m,INR 675,41 Seats available,3.4
+38,Jodhpur to Ajmer,Chouhan Tour and Travel,A/C Seater / Sleeper (2+2),01:10,06:00,04h 50m,INR 650,41 Seats available,3.4
+39,Jodhpur to Ajmer,Shri Ganesh Travels,A/C Seater / Sleeper (2+1),01:30,05:00,03h 30m,INR 450,38 Seats available,3.8
+40,Jodhpur to Ajmer,R.S.Sodha Travels,A/C Seater / Sleeper (2+1),01:45,05:20,03h 35m,INR 660,41 Seats available,3.6
+41,Jodhpur to Ajmer,V k jain travels,NON A/C Seater/ Sleeper (2+1),08:45,13:50,05h 05m,INR 330,24 Seats available,3.0
+42,Jodhpur to Ajmer,B R Travels,AC Sleeper (2+1),18:30,23:00,04h 30m,INR 500,34 Seats available,3.9
+43,Jodhpur to Ajmer,V k jain travels,NON A/C Seater/ Sleeper (2+1),18:35,23:25,04h 50m,INR 400,34 Seats available,3.0
+44,Jodhpur to Ajmer,FlixBus,A/C Sleeper (2+1),19:00,23:50,04h 50m,INR 99,25 Seats available,5.0
+45,Jodhpur to Ajmer,Chanakya Travels Agency,NON A/C Seater/ Sleeper (2+1),20:30,01:15,04h 45m,INR 500,40 Seats available,3.7
+46,Jodhpur to Ajmer,SHRI VISHWAKARMA TRAVELS (KETU),A/C Sleeper (2+1),21:00,02:30,05h 30m,INR 700,32 Seats available,3.5
+47,Jodhpur to Ajmer,Gorsiya Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:16,02:16,05h 00m,INR 400,29 Seats available,3.5
+48,Jodhpur to Ajmer,Jakhar Travels And Cargo,Non A/C Seater / Sleeper (2+1),21:45,03:45,06h 00m,INR 400,50 Seats available,3.6
+49,Jodhpur to Ajmer,Jakhar Travels And Cargo,Non A/C Seater / Sleeper (2+1),22:15,02:55,04h 40m,INR 450,36 Seats available,3.6
+50,Jodhpur to Ajmer,Chouhan Tour and Travel,A/C Seater / Sleeper (2+2),22:26,03:11,04h 45m,INR 650,33 Seats available,3.4
+51,Jodhpur to Ajmer,Swagat Travels,A/C Seater / Sleeper (2+1),22:42,02:50,04h 08m,INR 450,41 Seats available,3.3
+52,Jodhpur to Ajmer,Shre Ganesh Travels,A/C Seater / Sleeper (2+1),22:45,03:15,04h 30m,INR 500,34 Seats available,3.3
+53,Jodhpur to Ajmer,Bhagwati Travels and Tours,A/C Seater/Sleeper (2+1),23:30,04:00,04h 30m,INR 400,38 Seats available,4.0
+54,Jodhpur to Ajmer,Gorsiya Travels,A/C Seater / Sleeper (2+1),23:40,04:15,04h 35m,INR 600,38 Seats available,3.5
+55,Jodhpur to Ajmer,Shree Ganesh Travels,A/C Seater / Sleeper (2+1),23:55,04:30,04h 35m,INR 400,38 Seats available,3.2
+56,Jodhpur to Ajmer,Jakhar Travels And Cargo,A/C Sleeper (2+1),23:59,04:00,04h 01m,INR 600,36 Seats available,3.6
+57,Jodhpur to Ajmer,Shre Ganesh Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:59,04:15,04h 16m,INR 600,38 Seats available,3.3
+58,Jodhpur to Ajmer,Kallar Travels,A/C Seater / Sleeper (2+1),00:30,05:45,05h 15m,INR 600,39 Seats available,2.7
+59,Jodhpur to Ajmer,CHANDRA RAJ TRAVELS,NON AC Seater / Sleeper 2+1,07:30,12:25,04h 55m,INR 330,38 Seats available,1.0
+60,Jodhpur to Ajmer,Laxmi traveller,NON A/C Seater/ Sleeper (2+1),09:30,14:30,05h 00m,INR 330,31 Seats available,2.2
+61,Jodhpur to Ajmer,Jain travels regd,NON AC Seater / Sleeper 2+1,11:00,15:30,04h 30m,INR 330,36 Seats available,2.5
+62,Jodhpur to Ajmer,Maruti Travels Balotra,NON AC Seater / Sleeper 2+1,12:28,17:04,04h 36m,INR 585,34 Seats available,2.6
+63,Jodhpur to Ajmer,Kalpana Travels Pvt. Ltd.,AC Sleeper (2+1),13:15,18:30,05h 15m,INR 650,30 Seats available,2.8
+64,Jodhpur to Ajmer,Jain travels regd,A/C Seater / Sleeper (2+1),14:00,18:00,04h 00m,INR 430,40 Seats available,2.5
+65,Jodhpur to Ajmer,M R Travels,A/C Seater / Sleeper (2+1),14:30,19:15,04h 45m,INR 550,35 Seats available,1.2
+66,Jodhpur to Ajmer,Salasar vaishnav travels,A/C Seater / Sleeper (2+1),14:30,20:00,05h 30m,INR 500,38 Seats available,No rating
+67,Jodhpur to Ajmer,Choudhary travels and cargo,A/C Seater / Sleeper (2+1),15:00,19:30,04h 30m,INR 600,28 Seats available,1.9
+68,Jodhpur to Ajmer,M R Travels,A/C Seater / Sleeper (2+1),15:30,20:00,04h 30m,INR 500,35 Seats available,1.2
+69,Jodhpur to Ajmer,Jain travels regd,NON A/C Sleeper (2+1),16:00,21:10,05h 10m,INR 700,30 Seats available,2.5
+70,Jodhpur to Ajmer,Jain travels regd,NON AC Seater/ Sleeper (2+1),17:00,22:55,05h 55m,INR 330,42 Seats available,2.5
+71,Jodhpur to Ajmer,CHANDRA RAJ TRAVELS,A/C Seater / Sleeper (2+1),18:15,22:45,04h 30m,INR 500,40 Seats available,1.0
+72,Jodhpur to Ajmer,M R Travels,NON A/C Seater/ Sleeper (2+1),18:30,23:40,05h 10m,INR 450,41 Seats available,1.2
+73,Jodhpur to Ajmer,RR Travels,A/C Seater / Sleeper (2+1),18:55,02:10,07h 15m,333,41 Seats available,2.2
+74,Jodhpur to Ajmer,RR Travels,A/C Seater / Sleeper (2+1),18:55,01:15,06h 20m,475,41 Seats available,2.2
+75,Jodhpur to Ajmer,Jain travels regd,NON AC Seater / Sleeper 2+1,19:00,23:50,04h 50m,INR 330,42 Seats available,2.5
+76,Jodhpur to Ajmer,CHANDRA RAJ TRAVELS,A/C Seater / Sleeper (2+1),19:00,01:30,06h 30m,INR 409.52,41 Seats available,1.0
+77,Jodhpur to Ajmer,Ashok Travels and Cargo,A/C Seater/Sleeper (2+1),19:30,01:00,05h 30m,INR 500,39 Seats available,2.0
+78,Jodhpur to Ajmer,Laxmi traveller,A/C Seater / Sleeper (2+1),20:15,01:10,04h 55m,INR 600,22 Seats available,2.2
+79,Jodhpur to Ajmer,Jain travels regd,NON AC Seater / Sleeper 2+1,20:30,01:30,05h 00m,INR 330,48 Seats available,2.5
+80,Jodhpur to Ajmer,Jai Shankar Travels,NON AC Seater / Sleeper 2+1,21:00,01:30,04h 30m,INR 350,38 Seats available,2.6
+81,Jodhpur to Ajmer,Kalpana Travels Pvt. Ltd.,NON AC Seater / Sleeper 2+1,21:30,02:45,05h 15m,INR 450,34 Seats available,2.8
+82,Jodhpur to Ajmer,Kalpana Travels Pvt. Ltd.,NON AC Seater / Sleeper 2+1,21:30,02:40,05h 10m,INR 450,34 Seats available,2.8
+83,Jodhpur to Ajmer,Laxmi traveller,NON A/C Seater/ Sleeper (2+1),21:50,02:20,04h 30m,INR 330,14 Seats available,2.2
+84,Jodhpur to Ajmer,CHANDRA RAJ TRAVELS,A/C Seater / Sleeper (2+1),22:00,02:30,04h 30m,INR 500,42 Seats available,1.0
+85,Jodhpur to Ajmer,Jain travels regd,NON AC Seater / Sleeper 2+1,22:00,02:51,04h 51m,INR 330,42 Seats available,2.5
+86,Jodhpur to Ajmer,Jakhar Travels,A/C Seater / Sleeper (2+1),22:00,02:30,04h 30m,INR 500,35 Seats available,2.9
+87,Jodhpur to Ajmer,Laxmi traveller,A/C Seater / Sleeper (2+1),22:00,03:05,05h 05m,INR 580,32 Seats available,2.2
+88,Jodhpur to Ajmer,Gajraj Travels,A/C Sleeper (2+1),22:00,03:10,05h 10m,INR 650,34 Seats available,2.5
+89,Jodhpur to Ajmer,M R Travels,A/C Seater / Sleeper (2+1),22:00,02:15,04h 15m,INR 500,34 Seats available,1.2
+90,Jodhpur to Ajmer,Laxmi traveller,A/C Seater / Sleeper (2+1),22:05,02:30,04h 25m,INR 430,32 Seats available,2.2
+91,Jodhpur to Ajmer,Jain travels regd,AC Sleeper (2+1),22:30,02:20,03h 50m,INR 650,36 Seats available,2.5
+92,Jodhpur to Ajmer,CHANDRA RAJ TRAVELS,NON AC Seater / Sleeper 2+1,22:30,02:50,04h 20m,INR 500,40 Seats available,1.0
+93,Jodhpur to Ajmer,M R Travels,A/C Seater / Sleeper (2+1),22:45,02:25,03h 40m,INR 500,40 Seats available,1.2
+94,Jodhpur to Ajmer,Jakhar Travels,A/C Seater / Sleeper (2+1),23:00,03:30,04h 30m,INR 410,38 Seats available,2.9
+95,Jodhpur to Ajmer,CHANDRA RAJ TRAVELS,NON AC Seater / Sleeper 2+1,23:00,02:50,03h 50m,INR 400,50 Seats available,1.0
+96,Jodhpur to Ajmer,Jakhar Travels,A/C Sleeper (2+1),23:59,04:50,04h 51m,INR 648,23 Seats available,2.9
+97,Jodhpur to Ajmer,B S MAHARAJA TRAVELS,Bharat Benz A/C Seater /Sleeper (2+1),01:30,05:10,03h 40m,INR 1000,40 Seats available,3.0
+98,Jodhpur to Ajmer,Mahadev Travels(pipar),AC Sleeper (2+1),13:05,17:46,04h 41m,INR 1714.29,36 Seats available,4.2
+99,Jodhpur to Ajmer,Shri Charbhuja Travels (A Unit Of Bala Agri..),A/C Seater / Sleeper (2+1),13:31,17:46,04h 15m,INR 952.38,41 Seats available,3.6
+100,Jodhpur to Ajmer,Shri Charbhuja Travels (A Unit Of Bala Agri..),A/C Seater / Sleeper (2+1),13:31,18:23,04h 52m,INR 1047.62,41 Seats available,3.6
+101,Jodhpur to Ajmer,Chanakya Travels Agency,A/C Seater / Sleeper (2+1),14:00,19:15,05h 15m,INR 1100,40 Seats available,3.7
+102,Jodhpur to Ajmer,SHRI GANESH TRAVELLS BARMER,A/C Seater / Sleeper (2+1),14:00,18:00,04h 00m,INR 1200,40 Seats available,4.0
+103,Jodhpur to Ajmer,Shri Charbhuja Travels (A Unit Of Bala Agri..),A/C Seater / Sleeper (2+1),14:09,19:05,04h 56m,INR 1160,39 Seats available,3.6
+104,Jodhpur to Ajmer,Shri Charbhuja Travels (A Unit Of Bala Agri..),A/C Seater / Sleeper (2+1),14:13,18:19,04h 06m,INR 1047.62,42 Seats available,3.6
+105,Jodhpur to Ajmer,Shre Ganesh Travels,A/C Seater / Sleeper (2+1),14:30,18:30,04h 00m,INR 800,40 Seats available,3.3
+106,Jodhpur to Ajmer,Mahadev Bus Service,Non A/C Seater / Sleeper (2+1),15:30,17:30,02h 00m,INR 1500,41 Seats available,No rating
+107,Jodhpur to Ajmer,bhaiya travels,NON A/C Sleeper (2+1),17:00,22:12,05h 12m,INR 800,34 Seats available,3.2
+108,Jodhpur to Ajmer,B.R. Travels,AC Sleeper (2+1),17:30,23:05,05h 35m,INR 1999,36 Seats available,No rating
+109,Jodhpur to Ajmer,B R Travels,AC Sleeper (2+1),17:35,23:10,05h 35m,INR 2999,36 Seats available,3.9
+110,Jodhpur to Ajmer,V k jain travels,A/C Seater / Sleeper (2+1),18:15,23:20,05h 05m,INR 850,34 Seats available,3.0
+111,Jodhpur to Ajmer,Bluecity Bus,Bharat Benz A/C Sleeper (2+1),19:00,23:55,04h 55m,INR 1199,40 Seats available,4.3
+112,Jodhpur to Ajmer,B.R. Travels,AC Sleeper (2+1),19:01,23:31,04h 30m,INR 999,36 Seats available,No rating
+113,Jodhpur to Ajmer,Chanakya Travels Agency,AC Sleeper (2+1),21:30,01:30,04h 00m,INR 950,35 Seats available,3.7
+114,Jodhpur to Ajmer,Tiger Travels,A/C Seater / Sleeper (2+1),23:15,03:45,04h 30m,INR 1000,40 Seats available,4.1
+115,Jodhpur to Ajmer,Mahadev Travels,A/C Seater / Sleeper (2+1),09:10,14:00,04h 50m,INR 3000,12 Seats available,2.2
+116,Jodhpur to Ajmer,Jain travels regd,NON AC Seater / Sleeper 2+1,14:30,18:45,04h 15m,INR 1000,42 Seats available,2.5
+117,Jodhpur to Ajmer,Jain travels regd,AC Sleeper (2+1),15:00,19:10,04h 10m,INR 1600,34 Seats available,2.5
+118,Jodhpur to Ajmer,Western Bus,A/C Sleeper (2+1),15:30,20:00,04h 30m,INR 800,30 Seats available,2.9
+119,Jodhpur to Ajmer,Deepak Travels,NON A/C Sleeper (2+1),15:30,20:15,04h 45m,INR 1199,30 Seats available,1.9
+120,Jodhpur to Ajmer,Jain travels regd,NON AC Seater / Sleeper 2+1,15:30,20:30,05h 00m,INR 1000,42 Seats available,2.5
+121,Jodhpur to Ajmer,Western Bus,A/C Sleeper (2+1),15:30,19:31,04h 01m,INR 800,30 Seats available,2.9
+122,Jodhpur to Ajmer,Salasar vaishnav travels,Non A/C Seater / Sleeper (2+1),15:35,20:35,05h 00m,INR 750,38 Seats available,No rating
+123,Jodhpur to Ajmer,Jain travels regd,NON AC Seater/ Sleeper (2+1),19:00,23:36,04h 36m,INR 750,36 Seats available,2.5
+124,Jodhpur to Ajmer,M R Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),19:30,23:50,04h 20m,INR 1060,41 Seats available,1.2
+125,Jodhpur to Ajmer,Gajraj Travels,A/C Seater/Sleeper (2+1),19:30,23:50,04h 20m,INR 950,34 Seats available,2.5
+126,Jodhpur to Ajmer,Jakhar Travels,A/C Seater / Sleeper (2+1),19:45,00:45,05h 00m,INR 850,40 Seats available,2.9
+127,Jodhpur to Ajmer,Jain travels regd,AC Sleeper (2+1),20:00,00:30,04h 30m,INR 950,36 Seats available,2.5
+128,Beawar (Rajasthan) to Jaipur (Rajasthan),no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+129,Udaipur to Jodhpur,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+130,Jaipur (Rajasthan) to Jodhpur,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+131,Sikar to Jaipur (Rajasthan),no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+132,Kishangarh to Jaipur (Rajasthan),no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+133,Aligarh (uttar pradesh) to Jaipur (Rajasthan),no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+134,Jodhpur to Beawar (Rajasthan),no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+135,Kota(Rajasthan) to Jaipur (Rajasthan),no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+136,Jaipur (Rajasthan) to Aligarh (uttar pradesh),no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+137,Jaipur (Rajasthan) to Kota(Rajasthan),no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+138,Pali (Rajasthan) to Udaipur,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+139,Udaipur to Pali (Rajasthan),no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+140,Sikar to Bikaner,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+141,Jaipur (Rajasthan) to Bharatpur,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+142,Kishangarh to Jodhpur,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+143,Jaipur (Rajasthan) to Bhilwara,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+144,Kota(Rajasthan) to Udaipur,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+145,Jaipur (Rajasthan) to Pilani,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+146,Jaipur (Rajasthan) to Mathura,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found
+147,Bikaner to Sikar,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found,no-data-found

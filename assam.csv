@@ -1,0 +1,58 @@
+,route-collected,name,type,departure_time,arrival_time,duration,price,seats_available,rating
+0,Nagaon (Assam) to Guwahati,Assam State Transport Corporation (ASTC) - 145920,Bharat Benz A/C Seater (2+2),07:20,10:00,02h 40m,INR 191,34 Seats available,3.8
+1,Nagaon (Assam) to Guwahati,Assam State Transport Corporation (ASTC) - 146078,Bharat Benz A/C Seater (2+2),08:15,11:00,02h 45m,INR 191,21 Seats available,4.4
+2,Nagaon (Assam) to Guwahati,Assam State Transport Corporation (ASTC) - 154175,NON A/C Seater Push Back (2+1),12:30,16:00,03h 30m,INR 164,22 Seats available,3.5
+3,Nagaon (Assam) to Guwahati,NEELKANTH TRAVELS,A/C Seater Push Back (2+2),06:25,08:30,02h 05m,INR 250,41 Seats available,No rating
+4,Nagaon (Assam) to Guwahati,MAA Anada (UNDER ASTC),AC Seater (2+2),06:25,08:30,02h 05m,INR 247.5,30 Seats available,4.1
+5,Nagaon (Assam) to Guwahati,Kanchan Travels,AC Seater (2+2),06:30,08:45,02h 15m,INR 262,31 Seats available,4.1
+6,Nagaon (Assam) to Guwahati,Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),07:15,09:35,02h 20m,329,30 Seats available,4.3
+7,Nagaon (Assam) to Guwahati,Kareng Travels,Non AC Seater (2+2),07:15,09:30,02h 15m,285,34 Seats available,4.2
+8,Nagaon (Assam) to Guwahati,Orient Transline,NON A/C Seater (2+1),07:25,09:20,01h 55m,INR 285.71,31 Seats available,3.1
+9,Nagaon (Assam) to Guwahati,Orient Transline,A/C Seater (2+1),08:00,10:25,02h 25m,INR 333.33,37 Seats available,3.5
+10,Nagaon (Assam) to Guwahati,Orient Transline,A/C Seater (2+1),08:50,10:55,02h 05m,INR 333.33,29 Seats available,4.3
+11,Nagaon (Assam) to Guwahati,Mahi Travels(Under ASTC),A/C Seater (2+2),09:10,11:30,02h 20m,293,39 Seats available,4.8
+12,Nagaon (Assam) to Guwahati,Anindita Travels,NON A/C Seater (2+1),09:15,11:30,02h 15m,INR 450,37 Seats available,4.7
+13,Nagaon (Assam) to Guwahati,Mahalaxmi Travels,Tata A/C Seater (2+2),11:10,14:00,02h 50m,INR 250,32 Seats available,3.6
+14,Nagaon (Assam) to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),11:55,15:00,03h 05m,INR 400,37 Seats available,3.4
+15,Nagaon (Assam) to Guwahati,Deep Travels,Non AC Seater (2+1),13:00,16:00,03h 00m,INR 250,35 Seats available,3.7
+16,Nagaon (Assam) to Guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),13:15,16:00,02h 45m,285,34 Seats available,4.2
+17,Nagaon (Assam) to Guwahati,Baikuntha Transport Service,A/C Seater (2+1),14:00,17:00,03h 00m,450,28 Seats available,3.3
+18,Nagaon (Assam) to Guwahati,Kareng Travels,Non AC Seater (2+1),14:15,16:30,02h 15m,285,32 Seats available,4.2
+19,Nagaon (Assam) to Guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,14:30,17:00,02h 30m,INR 324.04,40 Seats available,4.7
+20,Nagaon (Assam) to Guwahati,Karisma (Aziba),NON A/C Sleeper (2+1),15:15,17:45,02h 30m,INR 200,34 Seats available,4.0
+21,Nagaon (Assam) to Guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,16:00,18:30,02h 30m,INR 324.04,36 Seats available,4.8
+22,Nagaon (Assam) to Guwahati,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,17:00,19:15,02h 15m,INR 324.04,32 Seats available,4.3
+23,Nagaon (Assam) to Guwahati,PANKAJ TRAVELS,A/C Seater (2+1),09:45,17:00,07h 15m,INR 500,34 Seats available,No rating
+24,Nagaon (Assam) to Guwahati,TRINAYAN TRANSPORT (Under ASTC),A/C Seater (2+1),11:45,14:30,02h 45m,398,35 Seats available,1.4
+25,Nagaon (Assam) to Guwahati,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),13:00,15:45,02h 45m,INR 300,28 Seats available,2.4
+26,Nagaon (Assam) to Guwahati,BARBIE TRAVELS,A/C Seater Push Back (2+2),14:50,17:50,03h 00m,INR 300,28 Seats available,No rating
+27,Nagaon (Assam) to Guwahati,Christina Travels,NON A/C Seater (2+2),16:00,18:20,02h 20m,650,45 Seats available,2.7
+28,Guwahati to Nagaon (Assam),Assam State Transport Corporation (ASTC) - 170668,Bharat Benz A/C Seater (2+2),06:30,09:00,02h 30m,INR 191,35 Seats available,3.9
+29,Guwahati to Nagaon (Assam),Assam State Transport Corporation (ASTC) - 154910,Bharat Benz A/C Seater (2+2),10:30,13:00,02h 30m,INR 191,28 Seats available,3.7
+30,Guwahati to Nagaon (Assam),Assam State Transport Corporation (ASTC) - 146146,Bharat Benz A/C Seater (2+2),13:00,16:00,03h 00m,INR 191,34 Seats available,4.0
+31,Guwahati to Nagaon (Assam),Assam State Transport Corporation (ASTC) - 146079,Bharat Benz A/C Seater (2+2),15:00,18:00,03h 00m,INR 191,35 Seats available,3.8
+32,Guwahati to Nagaon (Assam),Assam State Transport Corporation (ASTC) - 174839,Bharat Benz A/C Seater (2+2),15:15,17:40,02h 25m,INR 191,35 Seats available,3.9
+33,Guwahati to Nagaon (Assam),Karisma (Aziba),NON A/C Seater (2+1),05:30,08:35,03h 05m,INR 200,34 Seats available,4.0
+34,Guwahati to Nagaon (Assam),Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,06:15,09:15,03h 00m,INR 324.04,33 Seats available,4.7
+35,Guwahati to Nagaon (Assam),Deep Travels,Non AC Seater (2+1),07:30,10:00,02h 30m,INR 250,35 Seats available,3.7
+36,Guwahati to Nagaon (Assam),Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,07:30,09:30,02h 00m,INR 324.04,41 Seats available,4.7
+37,Guwahati to Nagaon (Assam),JOY HANUMAN,Non AC Seater (2+2),07:40,10:30,02h 50m,INR 200,35 Seats available,4.2
+38,Guwahati to Nagaon (Assam),Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,08:30,10:45,02h 15m,INR 324.04,38 Seats available,4.9
+39,Guwahati to Nagaon (Assam),NEELKANTH TRAVELS,A/C Seater Push Back (2+2),09:05,12:00,02h 55m,INR 250,1 Seat available,No rating
+40,Guwahati to Nagaon (Assam),Kareng Travels,NON A/C Seater Push Back (2+2),09:30,13:00,03h 30m,266,41 Seats available,4.4
+41,Guwahati to Nagaon (Assam),MAA Anada (UNDER ASTC),AC Seater (2+2),09:30,13:00,03h 30m,INR 247.5,32 Seats available,3.5
+42,Guwahati to Nagaon (Assam),Kareng Travels,A/C Seater (2+1),09:30,13:00,03h 30m,285,37 Seats available,4.3
+43,Guwahati to Nagaon (Assam),Mahi Travels(Under ASTC),A/C Seater (2+2),10:00,13:30,03h 30m,341,40 Seats available,3.4
+44,Guwahati to Nagaon (Assam),Mahi Travels(Under ASTC),Bharat Benz A/C Seater (2+2),10:30,13:50,03h 20m,303,35 Seats available,3.9
+45,Guwahati to Nagaon (Assam),Kanchan Travels,AC Seater (2+2),10:45,14:10,03h 25m,INR 285,30 Seats available,4.1
+46,Guwahati to Nagaon (Assam),Orient Transline,A/C Seater (2+1),11:30,14:25,02h 55m,INR 285.71,37 Seats available,3.6
+47,Guwahati to Nagaon (Assam),Kareng Travels,Non AC Seater (2+2),11:45,14:45,03h 00m,266,45 Seats available,4.4
+48,Guwahati to Nagaon (Assam),Orient Transline,NON A/C Seater (2+1),12:15,15:30,03h 15m,INR 285.71,35 Seats available,4.3
+49,Guwahati to Nagaon (Assam),Kareng Travels,NON A/C Seater Push Back (2+2),12:30,15:30,03h 00m,238,41 Seats available,4.4
+50,Guwahati to Nagaon (Assam),Orient Transline,A/C Seater (2+1),13:00,15:45,02h 45m,INR 333.33,37 Seats available,4.5
+51,Guwahati to Nagaon (Assam),Mahi Travels(Under ASTC),A/C Seater (2+2),14:15,16:15,02h 00m,303,44 Seats available,4.0
+52,Guwahati to Nagaon (Assam),Mahalaxmi Travels,Tata A/C Seater (2+2),14:40,16:40,02h 00m,INR 230,40 Seats available,3.6
+53,Guwahati to Nagaon (Assam),TRINAYAN TRANSPORT (Under ASTC),A/C Seater (2+1),08:00,11:30,03h 30m,444,35 Seats available,2.9
+54,Guwahati to Nagaon (Assam),Baikuntha Transport Service,Bharat Benz A/C Seater (2+1),08:00,11:30,03h 30m,395,37 Seats available,2.9
+55,Guwahati to Nagaon (Assam),Anindita Travels,NON A/C Seater (2+1),12:30,15:45,03h 15m,INR 400,37 Seats available,2.9
+56,Guwahati to Nagaon (Assam),DESTINY TRAVELS,NON A/C Seater (2+1),18:45,21:50,03h 05m,419,32 Seats available,No rating

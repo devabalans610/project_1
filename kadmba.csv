@@ -1,0 +1,256 @@
+,route-collected,name,type,departure_time,arrival_time,duration,price,seats_available,rating
+0,Pune to Goa,Ashray Travels,Non A/C Seater / Sleeper (2+1),19:25,07:45,12h 20m,INR 400,16 Seats available,4.5
+1,Pune to Goa,Ashray Divine,NON A/C Sleeper (1+2),19:20,06:45,11h 25m,513,11 Seats available,4.1
+2,Pune to Goa,KVT Narmada Benz,Bharat Benz A/C Sleeper (2+1),19:30,08:01,12h 31m,INR 600,12 Seats available,4.1
+3,Pune to Goa,AdIntrCity SmartBus,AC Sleeper (2+1),20:20,07:40,11h 20m,INR 607,4 Seats available,4.1
+4,Pune to Goa,Humsafar Travels,A/C Sleeper (2+1),20:35,09:30,12h 55m,675,18 Seats available,4.0
+5,Pune to Goa,Prasanna - Purple Bus,VE A/C Sleeper (2+1),20:55,09:30,12h 35m,INR 1020,13 Seats available,4.2
+6,Pune to Goa,Ashray Grand,Volvo Multi-Axle A/C Sleeper (2+1),21:15,09:30,12h 15m,740,11 Seats available,4.1
+7,Pune to Goa,Prasanna - Purple Bus,VE A/C Sleeper (2+1),20:30,09:30,13h 00m,INR 720,18 Seats available,4.2
+8,Pune to Goa,Rajdhani Travels Corporation,VE A/C Sleeper (2+1),22:45,09:35,10h 50m,INR 699,14 Seats available,4.0
+9,Pune to Goa,KVT Narmada Benz,Bharat Benz A/C Sleeper (2+1),19:30,08:00,12h 30m,INR 600,12 Seats available,4.8
+10,Pune to Goa,Atmaram Gobus,VE A/C Sleeper (2+1),20:00,08:45,12h 45m,INR 606,5 Seats available,4.6
+11,Pune to Goa,Ashray Travels,Bharat Benz A/C Sleeper (2+1),19:15,08:30,13h 15m,693,3 Seats available,4.6
+12,Pune to Goa,Atmaram Gobus,VE A/C Sleeper (2+1),19:00,07:30,12h 30m,INR 555,9 Seats available,4.4
+13,Pune to Goa,Ashray Vip Yellows,A/C Sleeper (2+1),19:30,08:00,12h 30m,648,10 Seats available,4.4
+14,Pune to Goa,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),19:40,08:35,12h 55m,488,9 Seats available,4.5
+15,Pune to Goa,Ashray Amrutyog,A/C Sleeper (2+1),20:15,09:30,13h 15m,647,9 Seats available,4.5
+16,Pune to Goa,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),21:35,10:00,12h 25m,540,2 Seats available,4.3
+17,Pune to Goa,Indumati Travels,A/C Sleeper (2+1),20:25,08:30,12h 05m,523,9 Seats available,4.2
+18,Pune to Goa,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),19:00,07:15,12h 15m,INR 399,9 Seats available,4.3
+19,Pune to Goa,Atmaram Gobus,NON A/C Sleeper (2+1),20:45,07:00,10h 15m,INR 399,10 Seats available,4.3
+20,Pune to Goa,Prasanna - Purple Bus,Volvo A/C Sleeper (2+1),21:00,08:45,11h 45m,INR 1020,5 Seats available,4.2
+21,Pune to Goa,Ashray National Express,NON A/C Sleeper (2+1),19:20,06:45,11h 25m,513,9 Seats available,4.2
+22,Pune to Goa,Traveltime Travels (St.Christopher),Non AC Seater (2+2),19:00,07:30,12h 30m,INR 350,19 Seats available,3.3
+23,Pune to Goa,Laxmi Queen Prime,A/C Sleeper (2+1),19:00,07:30,12h 30m,INR 699,13 Seats available,3.8
+24,Pune to Goa,Abhishek Vishal Travels,NON A/C Push Back (2+2),20:25,07:10,10h 45m,INR 500,29 Seats available,3.2
+25,Pune to Goa,Humsafar Travels,A/C Sleeper (2+1),20:35,09:00,12h 25m,INR 750,16 Seats available,3.4
+26,Pune to Goa,Abhishek Vishal Travels (Samarth),A/C Sleeper (2+1),22:25,09:10,10h 45m,INR 650,25 Seats available,3.6
+27,Pune to Goa,Traveltime Travels (St.Christopher),Non AC Seater (2+2),19:00,07:30,12h 30m,INR 350,20 Seats available,3.4
+28,Pune to Goa,Anand Travels,NON A/C Sleeper (2+1),20:00,09:30,13h 30m,549,17 Seats available,3.4
+29,Pune to Goa,Abhishek Vishal Travels (Samarth),A/C Sleeper (2+1),22:10,08:55,10h 45m,INR 599,23 Seats available,3.2
+30,Pune to Goa,KOKAN TOURS & TRAVELS,NON A/C Seater Push Back (2+2),19:15,08:45,13h 30m,INR 3000,27 Seats available,3.0
+31,Pune to Goa,Shreyash Travels,Bharat Benz A/C Sleeper (2+1),19:45,08:30,12h 45m,545,7 Seats available,3.9
+32,Pune to Goa,IntrCity SmartBus,AC Sleeper (2+1),20:45,08:20,11h 35m,INR 600,5 Seats available,3.9
+33,Pune to Goa,Dolphin Travel House (37),Bharat Benz A/C Sleeper (2+1),19:00,06:30,11h 30m,INR 910,9 Seats available,3.9
+34,Pune to Goa,IntrCity SmartBus,AC Sleeper (2+1),21:35,08:15,10h 40m,INR 452,8 Seats available,3.9
+35,Pune to Goa,Dolphin Travel House (38),Bharat Benz A/C Sleeper (2+1),21:30,09:00,11h 30m,INR 660,9 Seats available,3.7
+36,Pune to Goa,Dolphin Travel House (39),A/C Sleeper (2+1),22:15,09:15,11h 00m,INR 660,10 Seats available,3.1
+37,Pune to Goa,Dolphin travel house,A/C Sleeper (2+1),23:20,10:45,11h 25m,INR 660,17 Seats available,2.9
+38,Pune to Goa,Atmaram Manish Travels,NON A/C Hi-Tech (2+2),20:30,07:30,11h 00m,463,27 Seats available,2.4
+39,Pune to Goa,Hans Travels (I) Private Limited,A/C Sleeper (2+1),23:44,12:14,12h 30m,INR 1000,24 Seats available,2.4
+40,Pune to Goa,VRL Travels,A/C Sleeper (2+1),23:30,09:45,10h 15m,INR 800,16 Seats available,3.2
+41,Goa to Pune,Atmaram Gobus,VE A/C Sleeper (2+1),20:17,06:22,10h 05m,INR 606,12 Seats available,4.8
+42,Goa to Pune,Atmaram Gobus,VE A/C Sleeper (2+1),21:15,09:10,11h 55m,INR 555,20 Seats available,4.8
+43,Goa to Pune,Ashray Travels,Bharat Benz A/C Sleeper (2+1),21:00,10:00,13h 00m,546,17 Seats available,4.5
+44,Goa to Pune,AdShreyash Travels,A/C Sleeper (2+1),19:40,06:00,10h 20m,477,16 Seats available,4.2
+45,Goa to Pune,Atmaram Travels(M.Dev),A/C Sleeper (2+1),20:45,07:45,11h 00m,INR 750,21 Seats available,4.6
+46,Goa to Pune,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),21:05,10:30,13h 25m,500,19 Seats available,4.4
+47,Goa to Pune,Ashray Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),19:30,07:15,11h 45m,554,23 Seats available,4.2
+48,Goa to Pune,Amrutyog Travels,A/C Sleeper (2+1),19:00,06:22,11h 22m,INR 399,17 Seats available,4.3
+49,Goa to Pune,Ashray Travels,Non A/C Seater / Sleeper (2+1),19:30,09:00,13h 30m,INR 350,39 Seats available,4.3
+50,Goa to Pune,Prasanna Purple Big Bus,A/C Sleeper (2+1),20:15,07:30,11h 15m,INR 770,13 Seats available,4.2
+51,Goa to Pune,Zingbus Plus,VE A/C Sleeper (2+1),20:00,07:15,11h 15m,546,13 Seats available,4.7
+52,Goa to Pune,Indumati Travels,A/C Sleeper (2+1),20:45,07:00,10h 15m,475,12 Seats available,4.0
+53,Goa to Pune,Prasanna - Purple Bus,VE A/C Sleeper (2+1),19:15,05:00,09h 45m,INR 770,14 Seats available,4.0
+54,Goa to Pune,Atmaram Gobus,NON A/C Sleeper (2+1),19:32,07:32,12h 00m,INR 399,14 Seats available,4.1
+55,Goa to Pune,"National Travels,Goa",NON A/C Sleeper (2+1),19:00,06:20,11h 20m,INR 500,11 Seats available,4.6
+56,Goa to Pune,Laxmi Queen Asta,A/C Sleeper (2+1),20:00,07:00,11h 00m,INR 650,17 Seats available,4.0
+57,Goa to Pune,Atmaram Travels Goa,A/C Sleeper (2+1),19:00,06:00,11h 00m,INR 606,14 Seats available,4.3
+58,Goa to Pune,IntrCity SmartBus,AC Sleeper (2+1),19:05,05:35,10h 30m,INR 600,4 Seats available,4.6
+59,Goa to Pune,IntrCity SmartBus,AC Sleeper (2+1),20:30,07:05,10h 35m,INR 614,7 Seats available,4.4
+60,Goa to Pune,IntrCity SmartBus,AC Sleeper (2+1),19:00,05:25,10h 25m,INR 600,4 Seats available,4.4
+61,Goa to Pune,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),19:00,06:30,11h 30m,INR 399,6 Seats available,4.4
+62,Goa to Pune,Atmaram Gobus,NON A/C Sleeper (2+1),19:16,06:31,11h 15m,INR 555,3 Seats available,4.3
+63,Goa to Pune,Atmaram Travels(KVT Narmada Red),Bharat Benz A/C Sleeper (2+1),19:46,07:31,11h 45m,INR 440,6 Seats available,4.1
+64,Goa to Pune,Rajdhani Travels Corporation,Volvo A/C Seater / Sleeper (2+1),19:00,06:10,11h 10m,INR 799,9 Seats available,4.3
+65,Goa to Pune,Prasanna - Purple Bus,VE A/C Sleeper (2+1),19:00,06:15,11h 15m,INR 770,25 Seats available,3.9
+66,Goa to Pune,Atmaram Travels (Humsafar),Bharat Benz A/C Sleeper (2+1),19:05,05:00,09h 55m,INR 601,20 Seats available,3.8
+67,Goa to Pune,Atmaram Travels (Shreyas),Bharat Benz A/C Sleeper (2+1),19:32,05:48,10h 16m,INR 5000,24 Seats available,3.9
+68,Goa to Pune,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),19:10,04:30,09h 20m,INR 699,17 Seats available,3.8
+69,Goa to Pune,Atmaram Travels ( Dolphin ),AC Sleeper (2+1),19:10,05:30,10h 20m,INR 606,12 Seats available,3.7
+70,Goa to Pune,VAILANKANNI TRAVELS,VE A/C Sleeper (2+1),19:00,05:00,10h 00m,INR 650,21 Seats available,3.4
+71,Goa to Pune,Ashray Travels,Volvo Multi-Axle A/C Sleeper (2+1),19:30,08:05,12h 35m,2775,33 Seats available,3.7
+72,Goa to Pune,Atmaram Travels (Unity),A/C Sleeper (2+1),19:30,06:30,11h 00m,INR 606,21 Seats available,3.8
+73,Goa to Pune,Atmaram Travels ( Gogte ),NON A/C Sleeper (2+1),20:00,07:45,11h 45m,INR 5000,36 Seats available,3.5
+74,Goa to Pune,Laxmi Queen Grand,A/C Sleeper (2+1),20:30,08:00,11h 30m,INR 599,12 Seats available,3.5
+75,Goa to Pune,Sai Travels - Shree Sai,NON A/C Push Back (2+2),19:25,05:00,09h 35m,INR 5000,45 Seats available,3.2
+76,Goa to Pune,Manish Roshan Travels,A/C Sleeper (2+1),19:00,06:30,11h 30m,INR 600,26 Seats available,3.6
+77,Goa to Pune,Atmaram Travels ( Ashray ),A/C Sleeper (2+1),19:34,06:20,10h 46m,INR 399,9 Seats available,3.9
+78,Goa to Pune,PSR Travels Goa,A/C Sleeper (2+1),19:00,05:15,10h 15m,INR 699,4 Seats available,3.7
+79,Goa to Pune,Manish Travels,NON A/C Seater (2+2),19:10,05:35,10h 25m,INR 2000,32 Seats available,2.8
+80,Goa to Pune,Manish Travels,A/C Seater / Sleeper (2+1),19:00,04:00,09h 00m,INR 550,23 Seats available,2.2
+81,Goa to Pune,Giroba Travels (Shree),A/C Sleeper (2+1),19:01,05:45,10h 44m,INR 2500,29 Seats available,No rating
+82,Goa to Pune,Giroba Travels (ST.Christopher),Non AC Seater (2+2),19:30,05:30,10h 00m,INR 350,24 Seats available,No rating
+83,Mumbai to Goa,Kadamba Transport Corporation Limited (KTCL) - 131847,Volvo AC Seater Pushback 2+2,19:30,06:00,10h 30m,INR 700,23 Seats available,3.7
+84,Mumbai to Goa,Rajdhani Travels Corporation,VE A/C Sleeper (2+1),19:00,09:35,14h 35m,INR 699,14 Seats available,4.4
+85,Mumbai to Goa,Mascot Travels(M.Dev),A/C Sleeper (2+1),19:00,10:45,15h 45m,585,18 Seats available,4.0
+86,Mumbai to Goa,Mascot Travels(M.Dev),A/C Sleeper (2+1),19:00,12:00,17h 00m,539,15 Seats available,4.6
+87,Mumbai to Goa,Zingbus Plus,VE A/C Sleeper (2+1),20:00,12:25,16h 25m,689,2 Seats available,4.7
+88,Mumbai to Goa,IntrCity SmartBus,AC Sleeper (2+1),19:00,08:15,13h 15m,INR 600,6 Seats available,4.3
+89,Mumbai to Goa,IntrCity SmartBus,AC Sleeper (2+1),19:00,08:20,13h 20m,INR 600,5 Seats available,4.2
+90,Mumbai to Goa,Dolphin Travel House (38),Bharat Benz A/C Sleeper (2+1),19:05,09:00,13h 55m,INR 810,9 Seats available,4.3
+91,Mumbai to Goa,Konkan Travels National,NON A/C Sleeper (2+1),19:05,09:45,14h 40m,462,17 Seats available,3.9
+92,Mumbai to Goa,Global Travel Agency (GTA),A/C Sleeper (2+1),19:00,11:35,16h 35m,INR 650,17 Seats available,3.9
+93,Mumbai to Goa,Konkan Travels National,A/C Sleeper (2+1),19:00,10:55,15h 55m,600,19 Seats available,3.8
+94,Mumbai to Goa,Dolphin travel house,A/C Sleeper (2+1),19:05,10:45,15h 40m,INR 810,16 Seats available,3.5
+95,Mumbai to Goa,Shubham Vailankanni Travels,VE A/C Sleeper (2+1),20:30,12:05,15h 35m,INR 750,18 Seats available,3.4
+96,Mumbai to Goa,Abhishek Vishal Travels,NON A/C Push Back (2+2),19:40,07:10,11h 30m,INR 500,29 Seats available,3.0
+97,Mumbai to Goa,Dolphin travel house,A/C Sleeper (2+1),20:45,12:30,15h 45m,INR 850,21 Seats available,3.5
+98,Mumbai to Goa,Shubham Saijyoti Travels,A/C Sleeper (2+1),19:30,11:30,16h 00m,INR 700,13 Seats available,3.6
+99,Mumbai to Goa,Abhishek Vishal Travels (Samarth),A/C Sleeper (2+1),19:00,09:10,14h 10m,INR 650,24 Seats available,3.5
+100,Mumbai to Goa,Naik Travels (Syndicate),NON A/C Sleeper (2+1),19:10,09:00,13h 50m,INR 700,17 Seats available,3.4
+101,Mumbai to Goa,Abhishek Vishal Travels (Samarth),A/C Sleeper (2+1),19:00,08:55,13h 55m,INR 599,21 Seats available,3.2
+102,Mumbai to Goa,Global Travel Agency (GTA),A/C Sleeper (2+1),19:00,12:15,17h 15m,INR 700,16 Seats available,3.6
+103,Mumbai to Goa,Konkan Travels National,A/C Sleeper (2+1),19:05,09:45,14h 40m,INR 649,17 Seats available,3.5
+104,Mumbai to Goa,IntrCity SmartBus,AC Sleeper (2+1),19:30,10:45,15h 15m,INR 600,4 Seats available,3.9
+105,Mumbai to Goa,Jolly Tours and Travels,VE A/C Sleeper (2+1),19:05,07:05,12h 00m,1040,3 Seats available,3.9
+106,Mumbai to Goa,Roshan Travels - Humrahi,A/C Sleeper (2+1),19:00,10:30,15h 30m,649,17 Seats available,2.1
+107,Mumbai to Goa,Naik Tours And Travels,Bharat Benz A/C Sleeper (2+1),19:30,10:00,14h 30m,INR 1000,15 Seats available,2.3
+108,Mumbai to Goa,Atmaram Travels,A/C Seater / Sleeper (2+1),20:00,11:00,15h 00m,810,19 Seats available,2.8
+109,Mumbai to Goa,Naik Tours And Travels,AC Seater (2+2),20:15,10:00,13h 45m,INR 900,22 Seats available,1.6
+110,Mumbai to Goa,Atmaram Travels,A/C Seater / Sleeper (2+1),19:15,09:00,13h 45m,810,20 Seats available,2.5
+111,Mumbai to Goa,Atmaram Manish Travels,NON A/C Hi-Tech (2+2),19:05,08:30,13h 25m,463,21 Seats available,2.5
+112,Mumbai to Goa,GANESH PRASAD TRAVELS,NON A/C Seater (2+2),19:15,09:55,14h 40m,INR 2500,49 Seats available,No rating
+113,Mumbai to Goa,GANESH PRASAD TRAVELS,A/C Seater (2+2),19:30,10:55,15h 25m,INR 2500,49 Seats available,No rating
+114,Mumbai to Goa,Dolphin Travel House (39),A/C Sleeper (2+1),19:00,09:15,14h 15m,INR 810,10 Seats available,2.9
+115,Mumbai to Goa,Atmaram Travels,A/C Sleeper (2+1),19:00,08:45,13h 45m,740,10 Seats available,2.5
+116,Mumbai to Goa,VRL Travels,A/C Sleeper (2+1),19:15,09:45,14h 30m,INR 800,16 Seats available,3.0
+117,Goa to Mumbai,Atmaram Travels(M.Dev),A/C Sleeper (2+1),20:45,11:50,15h 05m,INR 750,21 Seats available,4.3
+118,Goa to Mumbai,Zingbus Plus,VE A/C Sleeper (2+1),20:00,11:50,15h 50m,567,13 Seats available,4.5
+119,Goa to Mumbai,Atmaram Travels (Unity),A/C Sleeper (2+1),19:30,10:35,15h 05m,INR 606,21 Seats available,4.2
+120,Goa to Mumbai,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),19:10,08:55,13h 45m,INR 699,17 Seats available,4.2
+121,Goa to Mumbai,Atmaram Travels(M.Dev),A/C Sleeper (2+1),19:47,10:57,15h 10m,INR 660,18 Seats available,4.3
+122,Goa to Mumbai,IntrCity SmartBus,AC Sleeper (2+1),19:05,09:40,14h 35m,INR 600,2 Seats available,4.6
+123,Goa to Mumbai,Rajdhani Travels Corporation,Volvo A/C Seater / Sleeper (2+1),19:05,08:10,13h 05m,INR 799,9 Seats available,4.4
+124,Goa to Mumbai,IntrCity SmartBus,AC Sleeper (2+1),19:05,09:00,13h 55m,INR 600,4 Seats available,4.2
+125,Goa to Mumbai,IntrCity SmartBus,AC Sleeper (2+1),20:30,11:20,14h 50m,INR 614,7 Seats available,4.2
+126,Goa to Mumbai,VAILANKANNI TRAVELS,VE A/C Sleeper (2+1),20:00,09:30,13h 30m,INR 650,21 Seats available,3.6
+127,Goa to Mumbai,Atmaram Travels ( Dolphin ),AC Sleeper (2+1),19:10,10:30,15h 20m,INR 606,12 Seats available,3.5
+128,Goa to Mumbai,Atmaram Travels (Vishal),Non AC Seater (2+2),19:10,09:20,14h 10m,INR 400,12 Seats available,3.5
+129,Goa to Mumbai,Atmaram Travels Goa,A/C Sleeper (2+1),19:40,09:35,13h 55m,INR 606,14 Seats available,3.7
+130,Goa to Mumbai,Manish Roshan Travels,A/C Sleeper (2+1),19:15,10:30,15h 15m,INR 600,26 Seats available,3.5
+131,Goa to Mumbai,Naik Tours And Travels,NON A/C Sleeper (2+1),19:15,07:05,11h 50m,INR 600,8 Seats available,3.6
+132,Goa to Mumbai,Sai Travels - Saijyoti,A/C Sleeper (2+1),19:45,10:35,14h 50m,INR 1799,7 Seats available,3.7
+133,Goa to Mumbai,Manish Roshan Travels,Bharat Benz A/C Sleeper (2+1),20:15,07:30,11h 15m,INR 850,24 Seats available,2.6
+134,Goa to Mumbai,Manish Travels,A/C Seater / Sleeper (2+1),19:10,08:00,12h 50m,INR 550,23 Seats available,2.2
+135,Goa to Mumbai,Manish Travels,Non AC Seater (2+2),19:10,09:00,13h 50m,INR 500,16 Seats available,2.6
+136,Goa to Mumbai,Giroba Travels (Shree),A/C Seater Hi-Tech Push Back (2+2),19:30,06:10,10h 40m,INR 2000,40 Seats available,No rating
+137,Goa to Mumbai,Giroba Travels (Shree),A/C Sleeper (2+1),19:15,07:10,11h 55m,INR 3000,29 Seats available,No rating
+138,Goa to Mumbai,GANESH PRASAD TRAVELS,NON A/C Seater (2+2),19:10,08:15,13h 05m,INR 2000,49 Seats available,No rating
+139,Goa to Mumbai,GANESH PRASAD TRAVELS,A/C Seater (2+2),19:15,08:30,13h 15m,INR 2500,49 Seats available,No rating
+140,Bangalore to Goa,Streamline tours and travels,A/C Sleeper (2+1),19:05,10:15,15h 10m,900,21 Seats available,4.1
+141,Bangalore to Goa,Streamline tours and travels,A/C Sleeper (2+1),19:45,11:15,15h 30m,900,12 Seats available,4.0
+142,Bangalore to Goa,Intercity travels,Bharat Benz A/C Sleeper (2+1),19:05,10:15,15h 10m,1199,1 Seat available,4.6
+143,Bangalore to Goa,Sunrise Tours and Travels,A/C Sleeper (2+1),19:35,10:15,14h 40m,INR 1099,2 Seats available,4.5
+144,Bangalore to Goa,IntrCity SmartBus,AC Sleeper (2+1),19:05,09:40,14h 35m,INR 1311,3 Seats available,4.1
+145,Bangalore to Goa,Sea Bird Tourist,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),20:15,12:30,16h 15m,INR 700,36 Seats available,3.4
+146,Bangalore to Goa,Sea Bird Tourist,NON A/C Sleeper (2+1),19:10,10:00,14h 50m,INR 700,15 Seats available,3.5
+147,Bangalore to Goa,Sea Bird Tourist,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:00,11:30,14h 30m,INR 700,39 Seats available,3.1
+148,Bangalore to Goa,Janatha Travels,NON A/C Sleeper (2+1),19:15,08:30,13h 15m,INR 12345,12 Seats available,3.5
+149,Bangalore to Goa,Sea Bird Tourist,NON A/C Sleeper (2+1),19:15,07:45,12h 30m,INR 750,6 Seats available,3.3
+150,Bangalore to Goa,Anand Travels,NON A/C Sleeper (2+1),19:05,07:00,11h 55m,INR 610,6 Seats available,3.0
+151,Bangalore to Goa,Sugama Tourist,NON A/C Sleeper (2+1),19:15,07:45,12h 30m,950,5 Seats available,3.5
+152,Bangalore to Goa,Sugama Tourist,NON A/C Sleeper (2+1),19:15,08:45,13h 30m,INR 1000,5 Seats available,3.1
+153,Bangalore to Goa,Sugama Tourist,NON A/C Sleeper (2+1),19:15,08:15,13h 00m,INR 1000,5 Seats available,3.9
+154,Bangalore to Goa,Sea Bird Tourist,A/C Sleeper (2+1),19:05,10:15,15h 10m,INR 900,21 Seats available,2.9
+155,Bangalore to Goa,Sea Bird Tourist,A/C Sleeper (2+1),19:50,11:15,15h 25m,INR 900,11 Seats available,2.6
+156,Bangalore to Goa,Balaji Tourist,Volvo Multi-Axle A/C Semisleeper (2+2),19:30,11:15,15h 45m,INR 3000,1 Seat available,No rating
+157,Bangalore to Goa,VRL Travels,A/C Seater / Sleeper (2+1),19:30,09:15,13h 45m,INR 600,12 Seats available,3.2
+158,Bangalore to Goa,VRL Travels,NON A/C Sleeper (2+1),19:30,09:30,14h 00m,INR 900,7 Seats available,3.6
+159,Bangalore to Goa,VRL Travels,A/C Sleeper (2+1),19:15,10:45,15h 30m,INR 1300,1 Seat available,2.9
+160,Goa to Pandharpur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,07:00,12h 00m,INR 735,20 Seats available,3.2
+161,Belagavi to Goa,S R Travels,NON A/C Sleeper (2+1),01:00,06:00,05h 00m,INR 799,5 Seats available,1.2
+162,Goa to Bangalore,Intercity travels,Bharat Benz A/C Sleeper (2+1),19:30,07:15,11h 45m,1099,15 Seats available,4.5
+163,Goa to Bangalore,Sunrise Tours and Travels,A/C Sleeper (2+1),19:15,07:10,11h 55m,INR 999,3 Seats available,4.4
+164,Goa to Bangalore,IntrCity SmartBus,AC Sleeper (2+1),19:25,08:35,13h 10m,INR 947,4 Seats available,4.1
+165,Goa to Bangalore,Sea Bird Tourist,A/C Sleeper (2+1),19:30,09:30,14h 00m,INR 900,23 Seats available,3.3
+166,Goa to Bangalore,Sea Bird Tourist,NON A/C Sleeper (2+1),19:15,08:30,13h 15m,INR 700,22 Seats available,3.0
+167,Goa to Bangalore,Sugama Tourist,NON A/C Sleeper (2+1),19:45,07:45,12h 00m,INR 900,12 Seats available,3.3
+168,Goa to Bangalore,Janatha Travels,NON A/C Sleeper (2+1),19:40,06:35,10h 55m,INR 12345,34 Seats available,3.5
+169,Goa to Bangalore,Sea Bird Tourist,NON A/C Sleeper (2+1),19:15,07:30,12h 15m,INR 800,3 Seats available,3.6
+170,Goa to Bangalore,SRS Travels,NON AC Seater / Sleeper 2+1,20:00,07:30,11h 30m,554,19 Seats available,2.5
+171,Goa to Bangalore,Anand Travels,NON A/C Sleeper (2+1),19:05,06:45,11h 40m,INR 610,4 Seats available,2.5
+172,Goa to Bangalore,Balaji Tourist,Volvo Multi-Axle A/C Semisleeper (2+2),19:45,06:25,10h 40m,INR 3000,1 Seat available,No rating
+173,Goa to Bangalore,VRL Travels,A/C Seater / Sleeper (2+1),19:45,09:00,13h 15m,INR 700,11 Seats available,4.0
+174,Goa to Bangalore,VRL Travels,A/C Sleeper (2+1),20:00,10:00,14h 00m,INR 900,18 Seats available,2.9
+175,Solapur to Goa,Humsafar Travels,A/C Sleeper (2+1),23:30,09:00,09h 30m,INR 1150,9 Seats available,3.7
+176,Solapur to Goa,Sharma Travels,AC Sleeper (2+1),23:01,09:01,10h 00m,INR 1333,1 Seat available,3.9
+177,Goa to Kolhapur(Maharashtra),Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,02:30,07h 30m,INR 420,20 Seats available,3.4
+178,Goa to Kolhapur(Maharashtra),Amrutyog Travels,A/C Sleeper (2+1),19:00,02:30,07h 30m,INR 399,17 Seats available,4.5
+179,Goa to Kolhapur(Maharashtra),Atmaram Travels Goa,A/C Sleeper (2+1),19:00,01:45,06h 45m,INR 606,14 Seats available,4.1
+180,Goa to Kolhapur(Maharashtra),IntrCity SmartBus,AC Sleeper (2+1),19:00,00:45,05h 45m,INR 600,4 Seats available,4.5
+181,Goa to Kolhapur(Maharashtra),Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),19:10,23:10,04h 00m,INR 699,17 Seats available,3.3
+182,Goa to Kolhapur(Maharashtra),PSR Travels Goa,A/C Sleeper (2+1),19:15,01:00,05h 45m,INR 699,4 Seats available,3.6
+183,Goa to Kolhapur(Maharashtra),IntrCity SmartBus,AC Sleeper (2+1),19:30,01:10,05h 40m,INR 600,2 Seats available,4.9
+184,Goa to Kolhapur(Maharashtra),Ashray Travels,Non A/C Seater / Sleeper (2+1),20:00,01:30,05h 30m,INR 350,38 Seats available,4.1
+185,Goa to Kolhapur(Maharashtra),Shreyash Travels,A/C Sleeper (2+1),20:00,01:00,05h 00m,477,16 Seats available,3.2
+186,Goa to Kolhapur(Maharashtra),Vaibhav Travels,A/C Sleeper (2+1),20:00,06:12,10h 12m,380,17 Seats available,3.6
+187,Goa to Kolhapur(Maharashtra),Zingbus Plus,VE A/C Sleeper (2+1),20:25,02:35,06h 10m,585,16 Seats available,4.1
+188,Goa to Kolhapur(Maharashtra),Laxmi Queen Asta,A/C Sleeper (2+1),20:30,02:00,05h 30m,INR 650,18 Seats available,4.8
+189,Goa to Kolhapur(Maharashtra),IntrCity SmartBus,AC Sleeper (2+1),21:00,02:30,05h 30m,INR 614,7 Seats available,4.6
+190,Goa to Kolhapur(Maharashtra),Laxmi Queen Grand,A/C Sleeper (2+1),21:00,02:30,05h 30m,INR 599,12 Seats available,3.9
+191,Goa to Kolhapur(Maharashtra),Zingbus Plus,Bharat Benz A/C Sleeper (2+1),21:35,03:00,05h 25m,500,19 Seats available,4.7
+192,Goa to Kolhapur(Maharashtra),Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),19:00,01:30,06h 30m,INR 399,7 Seats available,2.5
+193,Goa to Kolhapur(Maharashtra),Manish Travels,A/C Seater / Sleeper (2+1),19:00,23:25,04h 25m,INR 550,23 Seats available,2.6
+194,Goa to Kolhapur(Maharashtra),Manish Roshan Travels,A/C Sleeper (2+1),19:00,03:30,08h 30m,INR 600,26 Seats available,2.6
+195,Goa to Kolhapur(Maharashtra),Atmaram Travels ( Dolphin ),AC Sleeper (2+1),19:10,00:45,05h 35m,INR 606,12 Seats available,2.8
+196,Goa to Kolhapur(Maharashtra),Sai Travels - Shree Sai,NON A/C Push Back (2+2),19:00,01:30,06h 30m,INR 5000,45 Seats available,3.6
+197,Goa to Kolhapur(Maharashtra),Atmaram Travels (Shreyas),Bharat Benz A/C Sleeper (2+1),20:03,02:03,06h 00m,INR 5000,24 Seats available,4.1
+198,Goa to Kolhapur(Maharashtra),Atmaram Travels ( Gogte ),NON A/C Sleeper (2+1),21:15,03:15,06h 00m,INR 5000,36 Seats available,3.1
+199,Goa to Kolhapur(Maharashtra),Manish Travels,NON A/C Seater (2+2),19:10,23:55,04h 45m,INR 2000,32 Seats available,2.3
+200,Goa to Kolhapur(Maharashtra),VRL Travels,A/C Sleeper (2+1),20:00,03:00,07h 00m,INR 900,35 Seats available,3.4
+201,Goa to Solapur,Humsafar Travels,A/C Sleeper (2+1),19:00,04:30,09h 30m,1395,20 Seats available,3.7
+202,Goa to Solapur,S R Travels,A/C Seater/Sleeper (2+1),20:30,07:30,11h 00m,INR 700,25 Seats available,2.3
+203,Goa to Sangola (Solapur),Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,06:05,11h 05m,INR 675,20 Seats available,3.3
+204,Goa to Sangola (Solapur),Humsafar Travels,A/C Sleeper (2+1),19:00,02:00,07h 00m,1215,22 Seats available,4.0
+205,Goa to Sangli,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,20:00,04:00,08h 00m,INR 490,20 Seats available,3.8
+206,Goa to Sangli,Vaibhav Travels,A/C Sleeper (2+1),20:00,05:40,09h 40m,380,17 Seats available,3.4
+207,Goa to Miraj,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,20:00,04:30,08h 30m,INR 505,20 Seats available,2.6
+208,Goa to Miraj,Vaibhav Travels,A/C Sleeper (2+1),20:00,05:42,09h 42m,380,17 Seats available,3.6
+209,Shivamogga to Goa,Sea Bird Tourist,NON A/C Sleeper (2+1),23:45,08:00,08h 15m,INR 700,25 Seats available,4.6
+210,Goa to Satara,Kadamba Transport Corporation Limited (KTCL) - 6032,Non AC Seater 2+2,20:00,03:00,07h 00m,INR 550,36 Seats available,3.2
+211,Goa to Satara,Atmaram Gobus,VE A/C Sleeper (2+1),22:30,06:10,07h 40m,INR 555,20 Seats available,4.8
+212,Goa to Satara,Ashray Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),21:00,06:30,09h 30m,554,23 Seats available,4.4
+213,Goa to Satara,Ashray Travels,Bharat Benz A/C Sleeper (2+1),22:30,08:00,09h 30m,546,17 Seats available,4.4
+214,Goa to Satara,Anand Travels,NON A/C Sleeper (2+1),19:30,03:30,08h 00m,684,22 Seats available,4.3
+215,Goa to Satara,Atmaram Travels(M.Dev),A/C Sleeper (2+1),22:00,06:50,08h 50m,INR 750,21 Seats available,5.0
+216,Goa to Satara,Atmaram Gobus,NON A/C Sleeper (2+1),20:01,05:41,09h 40m,INR 555,3 Seats available,4.4
+217,Goa to Satara,Atmaram Gobus,NON A/C Sleeper (2+1),21:02,06:17,09h 15m,INR 399,14 Seats available,4.6
+218,Goa to Satara,Amrutyog Travels,A/C Sleeper (2+1),19:15,05:00,09h 45m,INR 399,17 Seats available,4.4
+219,Goa to Satara,Atmaram Travels(KVT Narmada Red),Bharat Benz A/C Sleeper (2+1),21:16,06:01,08h 45m,INR 440,6 Seats available,4.0
+220,Goa to Satara,Indumati Travels,A/C Sleeper (2+1),21:00,05:00,08h 00m,475,20 Seats available,3.1
+221,Goa to Satara,Giroba Travels (ST.Christopher),Non AC Seater (2+2),19:30,04:00,08h 30m,INR 350,29 Seats available,No rating
+222,Goa to Satara,Giroba Travels (Shree),A/C Sleeper (2+1),19:10,04:00,08h 50m,INR 2500,29 Seats available,No rating
+223,Goa to Satara,Laxmi-Princess Nova,Non A/C Seater / Sleeper (2+1),19:10,04:00,08h 50m,INR 399,5 Seats available,3.7
+224,Goa to Satara,IntrCity SmartBus,AC Sleeper (2+1),19:30,03:10,07h 40m,INR 758,6 Seats available,4.3
+225,Goa to Satara,Atmaram Travels (Unity),A/C Sleeper (2+1),20:00,04:45,08h 45m,INR 606,21 Seats available,4.1
+226,Goa to Satara,Atmaram Gobus,VE A/C Sleeper (2+1),21:32,05:17,07h 45m,INR 606,12 Seats available,4.1
+227,Goa to Satara,Atmaram Travels Goa,A/C Seater / Sleeper (3+1),21:30,06:20,08h 50m,INR 1099,38 Seats available,4.1
+228,Goa to Satara,Atmaram Travels ( Dolphin ),AC Sleeper (2+1),19:10,04:00,08h 50m,INR 606,12 Seats available,4.1
+229,Goa to Satara,Atmaram Travels (Humsafar),Bharat Benz A/C Sleeper (2+1),19:30,03:45,08h 15m,INR 601,20 Seats available,4.1
+230,Goa to Satara,Atmaram Travels ( Ashray ),A/C Sleeper (2+1),20:05,05:35,09h 30m,INR 399,9 Seats available,4.1
+231,Goa to Satara,Ashray Travels,Non A/C Seater / Sleeper (2+1),20:00,03:00,07h 00m,INR 350,39 Seats available,4.0
+232,Goa to Satara,Prasanna Purple Big Bus,A/C Sleeper (2+1),22:00,05:30,07h 30m,INR 770,13 Seats available,3.9
+233,Goa to Satara,"National Travels,Goa",NON A/C Sleeper (2+1),19:10,03:30,08h 20m,INR 500,11 Seats available,3.7
+234,Goa to Satara,Atmaram Travels ( Gogte ),NON A/C Sleeper (2+1),21:15,05:45,08h 30m,INR 5000,36 Seats available,3.6
+235,Goa to Satara,Atmaram Travels (Shreyas),NON A/C Sleeper (2+1),20:30,05:00,08h 30m,INR 750,30 Seats available,4.1
+236,Goa to Satara,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),21:35,06:35,09h 00m,599,19 Seats available,4.1
+237,Goa to Satara,Shreyash Travels,A/C Sleeper (2+1),20:00,04:00,08h 00m,477,18 Seats available,3.2
+238,Goa to Satara,Zingbus Plus,VE A/C Sleeper (2+1),20:25,05:10,08h 45m,585,16 Seats available,4.8
+239,Goa to Satara,Atmaram Travels (Shreyas),Bharat Benz A/C Sleeper (2+1),20:03,04:03,08h 00m,INR 5000,24 Seats available,4.1
+240,Goa to Satara,Atmaram Travels Goa,A/C Sleeper (2+1),22:31,07:01,08h 30m,INR 1099,24 Seats available,4.1
+241,Goa to Satara,Atmaram Travels Goa,A/C Sleeper (2+1),19:40,04:15,08h 35m,INR 606,14 Seats available,4.1
+242,Goa to Satara,Atmaram Travels ( Dolphin ),A/C Sleeper (2+1),19:10,03:00,07h 50m,INR 699,17 Seats available,4.1
+243,Goa to Satara,Ashray Travels,Volvo Multi-Axle A/C Sleeper (2+1),20:00,05:30,09h 30m,2775,33 Seats available,4.0
+244,Goa to Satara,Laxmi Queen Grand,A/C Sleeper (2+1),21:00,05:30,08h 30m,INR 599,12 Seats available,3.9
+245,Goa to Satara,Laxmi Queen Asta,A/C Sleeper (2+1),20:30,05:30,09h 00m,INR 650,19 Seats available,3.9
+246,Goa to Satara,PSR Travels Goa,A/C Sleeper (2+1),19:15,03:00,07h 45m,INR 699,4 Seats available,3.6
+247,Goa to Satara,Manish Travels,A/C Seater / Sleeper (2+1),19:10,03:00,07h 50m,INR 550,23 Seats available,2.6
+248,Goa to Satara,Manish Roshan Travels,A/C Sleeper (2+1),19:15,05:30,10h 15m,INR 600,26 Seats available,2.6
+249,Goa to Satara,VRL Travels,A/C Sleeper (2+1),19:30,01:30,06h 00m,INR 1300,36 Seats available,3.4
+250,Goa to Satara,VRL Travels,A/C Sleeper (2+1),19:30,04:00,08h 30m,INR 1100,30 Seats available,3.4
+251,Goa to Satara,VRL Travels,A/C Sleeper (2+1),20:00,05:00,09h 00m,INR 900,35 Seats available,3.4
+252,Shirdi to Goa,Hans Travels (I) Private Limited,A/C Sleeper (2+1),20:19,10:39,14h 20m,INR 1400,20 Seats available,1.9
+253,Goa to Shivamogga,Sea Bird Tourist,NON A/C Sleeper (2+1),19:15,02:30,07h 15m,INR 700,14 Seats available,4.1
+254,Goa to Shirdi,PSR Travels Goa,A/C Sleeper (2+1),19:15,10:00,14h 45m,INR 1099,4 Seats available,3.8
